@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Anna",
+        "height": 162,
+        "gender": "female"
+    },
+    {
+        "name": "Maria",
+        "height": 152,
+        "gender": "female"
+    },
+    {
+        "name": "Anastasia",
+        "height": 164,
+        "gender": "felame"
+    },
+    {
+        "name": "Oleksandra",
+        "height": 177,
+        "gender": "felame"
+    },
+    {
+        "name": "Julia",
+        "height": 169,
+        "gender": "female"
+    },
+    {
+        "name": "Sergei",
+        "height": 178,
+        "gender": "male"
+    },
+    {
+        "name": "Maksim",
+        "height": 183,
+        "gender": "male"
+    },
+    {
+        "name": "Vladislav",
+        "height": 186,
+        "gender": "male"
+    },
+    {
+        "name": "Dmitry",
+        "height": 184,
+        "gender": "male"
+    },
+    {
+        "name": "Petro",
+        "height": 196,
+        "gender": "male"
+    }
+]
